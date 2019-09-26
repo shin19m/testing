@@ -1,0 +1,9 @@
+#landing-image {
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 70px;
+    flex: 0 1 60vw;
+    margin: 0;
+}
